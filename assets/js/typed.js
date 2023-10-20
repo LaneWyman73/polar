@@ -1,0 +1,1 @@
+new Typed('#typed',{strings:[,'@x110507','🩸','#III', '^_*', '^_^', 'stahnnnnn ohnnnnnn biiiiihnisssss'],typeSpeed:35,delaySpeed:90,showCursor:true,loop:true})
